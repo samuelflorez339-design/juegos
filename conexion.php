@@ -1,7 +1,7 @@
 <?php
 $host = "mysql-florezapi.alwaysdata.net";
 $user = "florezapi";
-$password = "florez12";
+$password = "clase1234";
 $db = "florezapi_juego";
 
 $conn = new mysqli($host, $user, $password, $db);
